@@ -14,4 +14,4 @@ Suggests:
     quarto,
     rmarkdown
 VignetteBuilder: knitr, quarto
-Config/Needs/website: rmarkdown
+Config/Needs/website: rmarkdown, quarto
