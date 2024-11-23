@@ -15,3 +15,5 @@ Suggests:
     rmarkdown
 VignetteBuilder: knitr, quarto
 Config/Needs/website: rmarkdown, quarto
+URL: https://github.com/jennybc/abcde
+BugReports: https://github.com/jennybc/abcde/issues
