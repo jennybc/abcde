@@ -4,3 +4,6 @@
 ^vignettes/\.quarto$
 ^vignettes/*_files$
 ^vignettes/articles$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
